@@ -16,5 +16,12 @@ namespace Loja
         {
             InitializeComponent();
         }
+        private void usuáriosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //chamada do form Cadastro de usuarios formato (MDI)
+            Form childForm = new Cadastro_usuario();
+            childForm.MdiParent = this;
+            childForm.Show();
+        }
     }
 }
