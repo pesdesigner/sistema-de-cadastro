@@ -55,6 +55,20 @@ namespace Loja
                 cboPerfil.Text = Convert.ToString(dataGridView1["perfil", sel].Value);
             }
 
+            switch (Convert.ToString(dataGridView1["perfil", sel].Value))
+            {
+                case "1":
+                    cboPerfil.Text = "Administrador";
+                    break;
+                case "2":
+                    cboPerfil.Text = "Operador";
+                    break;
+                case "3":
+                    cboPerfil.Text = "Gerencial";
+                    break;
+
+            }
+
         }
     }
 }
