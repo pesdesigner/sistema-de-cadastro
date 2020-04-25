@@ -9,3 +9,4 @@ C:\C#\Application\Sistema-de-cadastro\Loja.BLL\obj\Debug\Loja.BLL.csproj.CoreCom
 C:\C#\Application\Sistema-de-cadastro\Loja.BLL\obj\Debug\Loja.BLL.csproj.CopyComplete
 C:\C#\Application\Sistema-de-cadastro\Loja.BLL\obj\Debug\Loja.BLL.dll
 C:\C#\Application\Sistema-de-cadastro\Loja.BLL\obj\Debug\Loja.BLL.pdb
+C:\C#\Application\Sistema-de-cadastro\Loja.BLL\bin\Debug\Loja.DAL.dll.config

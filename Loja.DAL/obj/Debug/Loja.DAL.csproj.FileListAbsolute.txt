@@ -7,3 +7,4 @@ C:\C#\Application\Sistema-de-cadastro\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCom
 C:\C#\Application\Sistema-de-cadastro\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
 C:\C#\Application\Sistema-de-cadastro\Loja.DAL\obj\Debug\Loja.DAL.dll
 C:\C#\Application\Sistema-de-cadastro\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\C#\Application\Sistema-de-cadastro\Loja.DAL\bin\Debug\Loja.DAL.dll.config

@@ -14,3 +14,6 @@ C:\C#\Application\Sistema-de-cadastro\Loja\obj\Debug\Loja.UI.csproj.CopyComplete
 C:\C#\Application\Sistema-de-cadastro\Loja\obj\Debug\Loja.exe
 C:\C#\Application\Sistema-de-cadastro\Loja\obj\Debug\Loja.pdb
 C:\C#\Application\Sistema-de-cadastro\Loja\obj\Debug\Loja.Cadastro_usuario.resources
+C:\C#\Application\Sistema-de-cadastro\Loja\bin\Debug\Loja.DAL.dll
+C:\C#\Application\Sistema-de-cadastro\Loja\bin\Debug\Loja.DAL.pdb
+C:\C#\Application\Sistema-de-cadastro\Loja\bin\Debug\Loja.DAL.dll.config

@@ -43,6 +43,8 @@
             this.txtCadastro = new System.Windows.Forms.TextBox();
             this.cboSituacao = new System.Windows.Forms.ComboBox();
             this.cboPerfil = new System.Windows.Forms.ComboBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -176,11 +178,20 @@
             this.cboPerfil.Size = new System.Drawing.Size(121, 21);
             this.cboPerfil.TabIndex = 15;
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(12, 317);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(360, 111);
+            this.dataGridView1.TabIndex = 16;
+            // 
             // Cadastro_usuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(384, 339);
+            this.ClientSize = new System.Drawing.Size(384, 440);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.cboPerfil);
             this.Controls.Add(this.cboSituacao);
             this.Controls.Add(this.txtCadastro);
@@ -198,6 +209,8 @@
             this.Controls.Add(this.label1);
             this.Name = "Cadastro_usuario";
             this.Text = "Cadastro_usuario";
+            this.Load += new System.EventHandler(this.Cadastro_usuario_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -220,5 +233,6 @@
         private System.Windows.Forms.TextBox txtCadastro;
         private System.Windows.Forms.ComboBox cboSituacao;
         private System.Windows.Forms.ComboBox cboPerfil;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
