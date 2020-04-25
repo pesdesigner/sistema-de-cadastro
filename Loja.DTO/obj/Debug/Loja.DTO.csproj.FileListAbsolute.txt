@@ -1,0 +1,6 @@
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\C#\Application\Sistema-de-cadastro\Loja.DTO\obj\Debug\Loja.DTO.pdb

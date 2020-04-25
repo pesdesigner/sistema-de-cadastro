@@ -44,5 +44,11 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Loja.DTO\Loja.DTO.csproj">
+      <Project>{2014bff3-f611-432d-a99f-1544567a3ebd}</Project>
+      <Name>Loja.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
