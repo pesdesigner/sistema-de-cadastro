@@ -21,5 +21,17 @@ namespace Loja.BLL
                 throw ex;
             }
         }
+
+        public int insereUsuario(usuario_DTO USU)
+        {
+            try
+            {
+                return new UsuarioDAL().insereUsuario(USU);
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
